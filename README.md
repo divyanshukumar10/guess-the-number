@@ -6,5 +6,5 @@ https://divyanshukumar10.github.io/guess-the-number/
 
 The gameplay is shown below- <br>
 
-<img width=1200 height=800 src="https://github.com/divyanshukumar10/guess-the-number/blob/main/Screenshot 2021-05-05 at 1.13.51 PM.png"/>
+<img width=1200 height=600 src="https://github.com/divyanshukumar10/guess-the-number/blob/main/Screenshot 2021-05-05 at 1.13.51 PM.png"/>
 
